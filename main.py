@@ -1,7 +1,5 @@
-import telebot
 from telebot import types
 import requests
-import bs4
 
 bot = telebot.TeleBot('5151693175:AAGacM5Sv9XLJDrlgpaFoKDLBff5UUq6KMs')
 
